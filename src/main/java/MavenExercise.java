@@ -19,5 +19,7 @@ public class MavenExercise {
         System.out.println("Flipped case:" + " " + StringUtils.swapCase(input));
 
         System.out.println("Reversed:" + " " + StringUtils.reverse(input));
+
     }
+
 }
